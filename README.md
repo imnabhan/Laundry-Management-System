@@ -58,15 +58,15 @@ Easy to deploy on GitHub Pages or Netlify
 
 
 
-🚧 Future Improvements
+## 🚧 Future Improvements
 
-Password hashing for better security
+1. Password hashing for better security
 
-Email/SMS notifications
+2. Email/SMS notifications
 
-Analytics Dashboard
+3. Analytics Dashboard
 
-Admin role & Reporting
+4. Admin role & Reporting
 
 ---
 🙌 Author

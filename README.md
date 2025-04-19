@@ -27,17 +27,17 @@ Easy to deploy on GitHub Pages or Netlify
 ## 📸 Screenshots
 
 > Home / Welcome Page  
-![Welcome](http://laundrymanagement.lovestoblog.com/)
+(http://laundrymanagement.lovestoblog.com/)
 
 > User Login  
-![Login](http://laundrymanagement.lovestoblog.com/usermanagement.php)
+(http://laundrymanagement.lovestoblog.com/usermanagement.php)
 
 > Dashboard (Staff View)  
-![Dashboard](http://laundrymanagement.lovestoblog.com/management.php)
+(http://laundrymanagement.lovestoblog.com/management.php)
 
 > Home / user login page  
-![user sigin](http://laundrymanagement.lovestoblog.com/usersignin.php)
+(http://laundrymanagement.lovestoblog.com/usersignin.php)
 
 > Home / user sigup page  
-![user sign up](http://laundrymanagement.lovestoblog.com/userregister.php)
+(http://laundrymanagement.lovestoblog.com/userregister.php)
 

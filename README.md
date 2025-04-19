@@ -41,3 +41,36 @@ Easy to deploy on GitHub Pages or Netlify
 > Home / user sigup page  
 (http://laundrymanagement.lovestoblog.com/userregister.php)
 
+## ⚙️ Setup Locally
+
+1. Clone this repo:
+   ```bash
+   https://github.com/imnabhan/Laundry-Management-System
+2. Import the SQL file into your local database using phpMyAdmin:
+
+   File: bbn.sql
+
+3. Update connect.php with your DB credentials
+
+
+4. Run using local server (XAMPP, WAMP, etc.)
+
+
+
+
+🚧 Future Improvements
+
+Password hashing for better security
+
+Email/SMS notifications
+
+Analytics Dashboard
+
+Admin role & Reporting
+
+---
+🙌 Author
+
+Made with love by [Nabhan]
+LinkedIn <a href=""> | GitHub <a href="">
+

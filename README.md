@@ -71,6 +71,8 @@ Admin role & Reporting
 ---
 🙌 Author
 
-Made with love by [Nabhan]
-LinkedIn <a href="in/dk-nabhan-534b40255"> | GitHub <a href="https://github.com/imnabhan">
+Made with love by [Nabhan].
+LinkedIn <a href="in/dk-nabhan-534b40255"> <button>Click here</button> </a>
+
+GitHub <a href="https://github.com/imnabhan"><button>Click here</button> </a>
 

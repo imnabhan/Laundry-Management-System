@@ -72,5 +72,5 @@ Admin role & Reporting
 🙌 Author
 
 Made with love by [Nabhan]
-LinkedIn <a href=""> | GitHub <a href="">
+LinkedIn <a href="in/dk-nabhan-534b40255"> | GitHub <a href="https://github.com/imnabhan">
 

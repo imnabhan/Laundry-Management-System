@@ -1,6 +1,8 @@
-# Laundry Management System (Static UI Showcase)
+# Laundry Management System
 
-Welcome to the **Laundry Management System** — a static, front-end representation of a laundry service platform originally developed using PHP. This version has been converted to pure **HTML, CSS, and image assets**, making it suitable for showcasing UI design and basic flow on **GitHub Pages**.
+A modern and user-friendly **Laundry Management System** built using **PHP & MySQL**.  
+Designed to help staff and users manage laundry orders, services, and statuses efficiently.
+
 ---
 
 ## 🔥 Live Preview

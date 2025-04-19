@@ -7,7 +7,7 @@ Welcome to the **Laundry Management System** — a static, front-end representat
 
 > Replace the link below with your actual GitHub Pages URL once deployed
 
-**[View Live Website](https://yourusername.github.io/laundry-static-site/)**
+**[View Live Website](http://laundrymanagement.lovestoblog.com/)**
 
 ---
 

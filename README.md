@@ -6,13 +6,13 @@ Designed to help staff and users manage laundry orders, services, and statuses e
 ---
 
 ## 🔥 Live Preview
-
+** click the below button to check and test my website 
 <a href="http://laundrymanagement.lovestoblog.com/" target="_blank">
   <button>Click here</button>
 </a>
 
 
-**[View Live Website](http://laundrymanagement.lovestoblog.com/)**
+
 
 ---
 
